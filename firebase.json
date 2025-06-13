@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "source": ".", // This tells Firebase to use App Hosting (via apphosting.yaml)
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
